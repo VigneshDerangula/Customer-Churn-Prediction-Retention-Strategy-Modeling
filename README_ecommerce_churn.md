@@ -128,17 +128,6 @@ scripts/ - load_to_sqlite.py
 
 ------------------------------------------------------------------------
 
-## 🧠 Ideal For Roles In
-
--   Product Analytics
--   Growth Analytics
--   Revenue Strategy
--   Data Science
--   Business Intelligence
--   Customer Strategy
-
-------------------------------------------------------------------------
-
 ## 📌 Conclusion
 
 This project demonstrates how analytics teams move beyond simple churn
